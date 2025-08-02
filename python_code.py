@@ -1,1 +1,1 @@
-printf("python code")
+print("python code")
